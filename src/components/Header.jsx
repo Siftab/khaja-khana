@@ -17,7 +17,7 @@ const Header = () => {
     ];
 
     return (
-        <header className='lg:max-w-screen-lg flex justify-center border-rose-300'>
+        <header className='lg:max-w-screen-lg flex justify-center '>
             <nav>
                 <ul className='flex gap-5'>
                     {navLinks.map((aLink) => (
